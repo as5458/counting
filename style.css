@@ -1,0 +1,23 @@
+.buttons{
+    text-align: center;
+}
+#lab{
+    font-size: 10em;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+.bt{
+    padding: 10px 20px;
+    font-size:1.5em;
+    background-color: blue;
+    color: white;
+     border-radius: 5px;
+     cursor: pointer;
+     transition:background-color 0.25s;
+
+
+}
+.bt:hover{
+    background-color: aquamarine;
+}
